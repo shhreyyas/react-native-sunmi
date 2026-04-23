@@ -1,6 +1,6 @@
 {
   "name": "react-native-sunmi",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A React Native library for Sunmi POS devices, enabling printing, barcode scanning, and native hardware integration",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
