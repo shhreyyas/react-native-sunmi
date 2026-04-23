@@ -51,12 +51,12 @@
     "type": "git",
     "url": "git+https://github.com/shhreyyas/react-native-sunmi.git"
   },
-  "author": "shreyasshreyas <sbtarar430@gmail.com> (https://github.com/shhreyyas)",
+  "author": "Shreyas <sbtarar430@gmail.com> (https://github.com/shhreyyas)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/shhreyyas/react-native-sunmi/issues"
   },
-  "homepage": "https://github.com/shhreyyas/react-native-sunmi#readme",
+  "homepage": "https://github.com/shhreyyas/react-native-sunmi",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
